@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+[cache]
+    gs = myremote
+['remote "myremote"']
+    url = gs://dvc-example-1/data
